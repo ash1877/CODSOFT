@@ -7,6 +7,7 @@ void showoptions()
   std::cout<< "2.Subtraction "<<std::endl;
   std::cout<< "3.Multiplication "<<std::endl;
   std::cout<< "4.Divition "<<std::endl;
+    std::cout<<"5.Exit "<<endl;
   std::cout<<"choose a operation to perfrom!:"<<std::endl;
 }
 
