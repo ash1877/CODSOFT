@@ -1,13 +1,13 @@
 #include<iostream>
-
+using namespace std;
 void showoptions()
 {
-  std::cout<< "CALCULATOR "<<endl;
-  std::cout<< "1.Addition "<<endl;
-  std::cout<< "2.Subtraction "<<endl;
-  std::cout<< "3.Multiplication "<<endl;
-  std::cout<< "4.Divition "<<endl;
-  std::cout<<"choose a operation to perfrom!:"<<endl;
+    cout<< "CALCULATOR "<<std::endl;
+    cout<< "1.Addition "<<std::endl;
+  std::cout<< "2.Subtraction "<<std::endl;
+  std::cout<< "3.Multiplication "<<std::endl;
+  std::cout<< "4.Divition "<<std::endl;
+  std::cout<<"choose a operation to perfrom!:"<<std::endl;
 }
 
 // to perform each operation 
@@ -90,7 +90,7 @@ int main()
   }
 
   
-}while(choice != 5):  // if choice is 5  and above loop ends
+}while(choice != 5); // if choice is 5  and above loop ends
     
 return 0;
 }
