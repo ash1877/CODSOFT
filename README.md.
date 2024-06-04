@@ -1,3 +1,9 @@
+NAME: ASHWINI I
+COMPANY : CODSOFT
+
+
+
+
 # Simple Console-Based Games and Calculator
 
 This repository contains three simple console-based programs written in C++:
@@ -8,7 +14,9 @@ This repository contains three simple console-based programs written in C++:
 
 ## Tic-Tac-Toe Game
 
-### Features
+### Features of the three task 
+
+###tic tac toe 
 - 3x3 game board.
 - Two players: 'X' and 'O'.
 - Displays the current state of the board.
@@ -19,4 +27,12 @@ This repository contains three simple console-based programs written in C++:
 - Displays the result of the game (win, draw, or ongoing).
 - Option to play again.
 
+### calculator
+prompts user to input two numbers 
+choose opertion from arithmetic operations
+performs operation and prints the output
 
+### Number guessing game
+Generates a random number and prompts the user to input a number and guess 
+if the inputed number matches with random number the program terminates
+if not hint the user to guess the number until found.
